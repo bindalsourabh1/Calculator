@@ -1,0 +1,7 @@
+.background {
+    z-index: 1;
+    background: linear-gradient(-45deg, #ff69b4, #00bfff 30%, #ff8c00 60%, #93b372);
+    background-size: 400% 400%;
+    width: 100vw;
+    height: 100vh;
+}
